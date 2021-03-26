@@ -1,4 +1,5 @@
-print(">>>>>Efetue seu cadastro abaixo<<<<< \n")
+# cadastro de usuário - 
+print(">>>>>Efetue seu cadastro abaixo<<<<< \n")             
 usuario=str(input("Usuário: "))
 senha=str(input("Senha: "))
 while usuario==senha:
