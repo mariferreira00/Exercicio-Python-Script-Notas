@@ -1,4 +1,4 @@
-# tabuada de un múmero com entrada do usuario.
+# tabuada de um numero com entrada do usuário
 
 num = int(input('Digite um número: '))
 print(('-') * 12)
