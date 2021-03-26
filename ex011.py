@@ -1,4 +1,5 @@
 # cada 2m² de parede precisa de 2 litros de tinta para ser pintado. entenda área como LxA.
+# Programa que calcula a quantidade de tinta que será usada para pintar uma parede de dimensões fornecidas pelo usuário.
 l = float(input('Informe a largura da sua parede em metros: '))
 a = float(input('Informe a altura da sua parede em metros: '))
 areaTotal = l * a
