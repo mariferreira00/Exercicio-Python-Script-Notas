@@ -1,7 +1,5 @@
 # Banco Blue
-# Programa simples coleta informações como : usuário e senha, validação de senha,
-# e mais dados como idade, endereço e saldo
-# operações do tipo : depósito, saque (com validação de valor) e consulta de saldo.
+# Programa coleta informações como : usuário e senha, validação de senha, e mais dados como idade, endereço e saldo, operações do tipo : depósito, saque (com validação de valor) e consulta de saldo.
 
 def Deposito():
     return saldo + deposit
@@ -27,6 +25,7 @@ print(f'\tNOME DO USUÁRIO: {dados[0]}')
 print(f'\tIDADE: {dados[1]}')
 print(f'\tENDEREÇO: {dados[2]}')
 print(f'\tSALDO ATUAL: R${dados[3]}')
+print('...................................................................')
 
 
 continuar = 'S'
