@@ -1,4 +1,8 @@
 # Banco Blue
+# Programa simples coleta informações como : usuário e senha, validação de senha,
+# e mais dados como idade, endereço e saldo
+# operações do tipo : depósito, saque (com validação de valor) e consulta de saldo.
+
 def Deposito():
     return saldo + deposit
 
